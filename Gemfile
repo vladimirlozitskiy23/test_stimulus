@@ -75,3 +75,4 @@ gem "jsbundling-rails", "~> 1.1"
 
 gem "cssbundling-rails", "~> 1.2"
 gem 'pg'
+gem 'simple_form'
